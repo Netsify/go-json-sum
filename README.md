@@ -1,0 +1,1 @@
+go run main.go models.go processor.go -workers=NUMBER_OF_GOROUTINES
